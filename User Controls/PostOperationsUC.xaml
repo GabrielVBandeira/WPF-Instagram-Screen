@@ -1,0 +1,35 @@
+﻿<UserControl
+    x:Class="MVC_Test.User_Controls.PostOperationsUC"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:MVC_Test.User_Controls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="60"
+    d:DesignWidth="550"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Image
+                Name="Heart"
+                Margin="8"
+                MouseDown="Heart_MouseDown"
+                Source="/Icons/nolike.png"
+                Stretch="Uniform" />
+            <Image
+                Margin="8"
+                Source="/Icons/comment.png"
+                Stretch="Uniform" />
+            <Image
+                Margin="8"
+                Source="/Icons/send.png"
+                Stretch="Uniform" />
+        </StackPanel>
+
+        <Image
+            Margin="8"
+            HorizontalAlignment="Right"
+            Source="/Icons/bookmark.png" />
+
+    </Grid>
+</UserControl>

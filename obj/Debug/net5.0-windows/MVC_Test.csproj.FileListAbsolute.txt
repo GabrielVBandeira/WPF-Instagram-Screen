@@ -1,0 +1,31 @@
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.exe
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.deps.json
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.runtimeconfig.json
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.dll
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\ref\MVC_Test.dll
+C:\Users\Gabriel\source\repos\MVC_Test\bin\Debug\net5.0-windows\MVC_Test.pdb
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test_MarkupCompile.cache
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test_MarkupCompile.lref
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.g.resources
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.dll
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\ref\MVC_Test.dll
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.pdb
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\MVC_Test.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PicturePost.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PostLikedBy.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PostOperationsUC.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PicturePost.baml
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PostLikedBy.baml
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\PostOperationsUC.baml
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\VideoPost.g.cs
+C:\Users\Gabriel\source\repos\MVC_Test\obj\Debug\net5.0-windows\User Controls\VideoPost.baml
